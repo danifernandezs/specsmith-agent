@@ -18,7 +18,7 @@ Takes a vague concept like *"a website for my project"* and produces a productio
 
 ```bash
 mkdir -p .opencode/agents
-curl -o .opencode/agents/specsmith.md https://raw.githubusercontent.com/danifernandezs/specsmith-agent/refs/heads/main/specsmith.md
+curl -o .opencode/agents/specsmith.md https://raw.githubusercontent.com/danifernandezs/specsmith-agent/main/specsmith.md
 ```
 
 Or clone and copy:
